@@ -3,7 +3,7 @@
 import os
 import sys
 # from quiz.models import *
-
+sss
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'study-pallet.settings')
